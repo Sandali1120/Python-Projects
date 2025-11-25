@@ -38,4 +38,4 @@ elif choice == "3":
 elif choice == "4":
     print("Result:", divide(num1, num2))
 else:
-    print("Invalid choice! Please select between 1
+    print("Invalid choice! Please select between 1-4")
